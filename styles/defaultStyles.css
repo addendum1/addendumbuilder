@@ -1,0 +1,69 @@
+﻿body {
+  margin: 0px;
+  font-family: Arial, Sans-Serif;
+  font-size: 12px;
+  overflow-y: scroll;
+  overflow-x: auto;
+  background: #3f3f3f;
+}
+
+a {color: blue;}
+
+a:visited {color: blue;}
+
+
+button {
+  cursor: pointer;
+  background: black;
+  color: white;
+  border: 0px;
+  padding: 2px;
+}
+
+
+.headerContainer {
+  position: fixed;
+  width: 100%;
+  min-width: 1000px;
+  padding: 0px;
+  border: 0px;
+  z-index: 999;
+}
+
+.header {
+  height: 75px;
+  width: 992px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #b8202c;
+  padding: 4px;
+  border: 0px;
+}
+
+.headerTitle {
+  font-size: 42px;
+  font-weight: bold;
+  height: 100%;
+  width: 100%;
+  color: white;
+  padding: 12px;
+}
+
+.mainContainer {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+  border: 0px;
+}
+
+.innerContainer {
+  width: 1000px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background: #f8f8f8;
+  padding: 0px;
+  border: 0px;
+}
+
