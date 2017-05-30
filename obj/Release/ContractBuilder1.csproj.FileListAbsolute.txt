@@ -1,0 +1,5 @@
+C:\Users\Ed.Bialozewski\Documents\6 - Coding\ContractBuilderOpenSource\bin\ContractBuilder1.dll.config
+C:\Users\Ed.Bialozewski\Documents\6 - Coding\ContractBuilderOpenSource\bin\ContractBuilder1.dll
+C:\Users\Ed.Bialozewski\Documents\6 - Coding\ContractBuilderOpenSource\bin\ContractBuilder1.pdb
+C:\Users\Ed.Bialozewski\Documents\6 - Coding\ContractBuilderOpenSource\obj\Release\ContractBuilder1.dll
+C:\Users\Ed.Bialozewski\Documents\6 - Coding\ContractBuilderOpenSource\obj\Release\ContractBuilder1.pdb
